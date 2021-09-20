@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/shears"
+  },
+  "overrides":[
+        { "predicate": {"custom_model_data": 1}, "model": "item/custom/status_1"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/custom/status_2"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/custom/status_3"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/custom/status_4"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/custom/status_5"},
+        { "predicate": {"custom_model_data": 6}, "model": "item/custom/status_6"},
+        { "predicate": {"custom_model_data": 7}, "model": "item/custom/status_7"},
+        { "predicate": {"custom_model_data": 8}, "model": "item/custom/status_8"},
+        { "predicate": {"custom_model_data": 9}, "model": "item/custom/status_9"}
+  ]
+}
