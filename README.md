@@ -1,2 +1,2 @@
 # MCDbD-Texture
-ver=1.5.7.7
+ver=1.5.7.8
