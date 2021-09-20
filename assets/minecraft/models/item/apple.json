@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/apple"
+    },
+    "overrides": [
+
+        { "predicate": {"custom_model_data": 1}, "model": "item/custom/testt"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/custom/testt2"}
+        
+    ]
+
+}

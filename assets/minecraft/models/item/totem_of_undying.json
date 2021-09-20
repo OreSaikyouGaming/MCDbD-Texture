@@ -1,0 +1,37 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/null"
+
+            },
+    "overrides": [
+
+        { "predicate": {"custom_model_data": 1}, "model": "item/custom/perk1"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/custom/perk2"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/custom/perk3"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/custom/perk4"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/custom/perk5"},
+        { "predicate": {"custom_model_data": 6}, "model": "item/custom/perk6"},
+        { "predicate": {"custom_model_data": 7}, "model": "item/custom/perk7"},
+        { "predicate": {"custom_model_data": 8}, "model": "item/custom/perk8"},
+        { "predicate": {"custom_model_data": 9}, "model": "item/custom/perk9"},
+        { "predicate": {"custom_model_data": 10}, "model": "item/custom/perk10"},
+        { "predicate": {"custom_model_data": 11}, "model": "item/custom/perk11"},
+        { "predicate": {"custom_model_data": 12}, "model": "item/custom/perk12"},
+        { "predicate": {"custom_model_data": 13}, "model": "item/custom/perk13"},
+        { "predicate": {"custom_model_data": 14}, "model": "item/custom/perk14"},
+        { "predicate": {"custom_model_data": 15}, "model": "item/custom/perk15"},
+        { "predicate": {"custom_model_data": 16}, "model": "item/custom/perk16"},
+        { "predicate": {"custom_model_data": 17}, "model": "item/custom/perk17"},
+        { "predicate": {"custom_model_data": 18}, "model": "item/custom/perk18"},
+        { "predicate": {"custom_model_data": 19}, "model": "item/custom/perk19"},
+        { "predicate": {"custom_model_data": 20}, "model": "item/custom/perk20"},
+        { "predicate": {"custom_model_data": 21}, "model": "item/custom/perk21"},
+        { "predicate": {"custom_model_data": 22}, "model": "item/custom/perk22"},
+        { "predicate": {"custom_model_data": 23}, "model": "item/custom/perk23"},
+        { "predicate": {"custom_model_data": 24}, "model": "item/custom/perk24"},
+        { "predicate": {"custom_model_data": 25}, "model": "item/custom/perk25"}
+        
+    ]
+
+}

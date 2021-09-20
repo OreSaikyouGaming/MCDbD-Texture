@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/nether_bricks",
+		"1": "block/mossy_cobblestone",
+		"particle": "block/nether_bricks"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [6, 16, 6],
+			"to": [10, 32, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 24, 8]},
+			"faces": {
+				"north": {"uv": [6, 0, 10, 16], "texture": "#0"},
+				"east": {"uv": [6, 0, 10, 16], "texture": "#0"},
+				"south": {"uv": [6, 0, 10, 16], "texture": "#0"},
+				"west": {"uv": [6, 0, 10, 16], "texture": "#0"},
+				"up": {"uv": [6, 0, 10, 16], "texture": "#0"},
+				"down": {"uv": [6, 0, 10, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Center post",
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#1"},
+				"east": {"uv": [4, 0, 12, 16], "texture": "#1"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#1"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#1"},
+				"up": {"uv": [4, 0, 12, 16], "texture": "#1"},
+				"down": {"uv": [4, 0, 12, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation": [0, -8, 0]
+		},
+		"fixed": {
+			"translation": [0, -8, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "fence_post",
+			"origin": [8, 8, 8],
+			"children": [0]
+		},
+		{
+			"name": "template_wall_post",
+			"origin": [8, 8, 8],
+			"children": [1]
+		}
+	]
+}
