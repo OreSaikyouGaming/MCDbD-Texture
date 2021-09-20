@@ -77,6 +77,7 @@
         { "predicate": {"custom_model_data": 6}, "model": "item/custom/status_6"},
         { "predicate": {"custom_model_data": 7}, "model": "item/custom/status_7"},
         { "predicate": {"custom_model_data": 8}, "model": "item/custom/status_8"},
-        { "predicate": {"custom_model_data": 9}, "model": "item/custom/status_9"}
+        { "predicate": {"custom_model_data": 9}, "model": "item/custom/status_9"},
+        { "predicate": {"custom_model_data": 10}, "model": "item/custom/region_knife"}
     ]
 }
